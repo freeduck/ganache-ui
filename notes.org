@@ -1,0 +1,3 @@
+#+TITLE: Notes
+
+At least on Fedora installing ganache needed python to be 2.7
